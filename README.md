@@ -11,11 +11,13 @@ Berikut adalah tampilan antarmuka dari **Aplikasi Spin Arisan**:
 | Halaman Utama / Input | Roda Acak (Spin Wheel) | Pemenang Arisan |
 | :---: | :---: | :---: |
 | <<img width="298" height="630" alt="Screenshot 2026-06-26 154659" src="https://github.com/user-attachments/assets/d5c35d0b-e55d-4ff8-b1fd-14802c1dafde" />
-> | <img src="GANTI_DENGAN_LINK_GAMBAR_2" width="220" alt="Spin Wheel" /> | <img src="GANTI_DENGAN_LINK_GAMBAR_3" width="220" alt="Pemenang" /> |
+> | <<img width="282" height="622" alt="Screenshot 2026-06-26 154741" src="https://github.com/user-attachments/assets/16e554d7-84f7-469e-8d2d-e0f202b03cb1" />
+> |
 
 | Riwayat Pemenang | Pengaturan Arisan |
 | :---: | :---: |
-| <img src="GANTI_DENGAN_LINK_GAMBAR_4" width="220" alt="Riwayat" /> | <img src="GANTI_DENGAN_LINK_GAMBAR_5" width="220" alt="Pengaturan" /> |
+| <<img width="293" height="632" alt="Screenshot 2026-06-26 154819" src="https://github.com/user-attachments/assets/dafbff3c-d9cf-4103-9273-57bce8543656" />
+> |
 
 > *💡 **Tips:** Untuk memasukkan gambar di atas, cukup drag-and-drop tangkapan layar aplikasi arisan Anda ke kolom komentar/isu GitHub, lalu salin link-nya ke teks `GANTI_DENGAN_LINK_GAMBAR` di atas.*
 
