@@ -10,7 +10,8 @@ Berikut adalah tampilan antarmuka dari **Aplikasi Spin Arisan**:
 
 | Halaman Utama / Input | Roda Acak (Spin Wheel) | Pemenang Arisan |
 | :---: | :---: | :---: |
-| <img src="GANTI_DENGAN_LINK_GAMBAR_1" width="220" alt="Input Anggota" /> | <img src="GANTI_DENGAN_LINK_GAMBAR_2" width="220" alt="Spin Wheel" /> | <img src="GANTI_DENGAN_LINK_GAMBAR_3" width="220" alt="Pemenang" /> |
+| <<img width="298" height="630" alt="Screenshot 2026-06-26 154659" src="https://github.com/user-attachments/assets/d5c35d0b-e55d-4ff8-b1fd-14802c1dafde" />
+> | <img src="GANTI_DENGAN_LINK_GAMBAR_2" width="220" alt="Spin Wheel" /> | <img src="GANTI_DENGAN_LINK_GAMBAR_3" width="220" alt="Pemenang" /> |
 
 | Riwayat Pemenang | Pengaturan Arisan |
 | :---: | :---: |
