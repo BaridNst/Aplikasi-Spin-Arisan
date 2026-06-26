@@ -10,11 +10,16 @@ Berikut adalah tampilan antarmuka dari **Zomo Storage**:
 
 | Dashboard & Analitik | Tambah Barang Baru | Log Mutasi Real-time |
 | :---: | :---: | :---: |
-| ![Dashboard](Screenshot%202026-06-26%20153045.png) | ![Tambah Barang](Screenshot%202026-06-26%20153100.png) | ![Mutasi Stok](Screenshot%202026-06-26%20153111.png) |
+| ![Dashboard](<img width="297" height="622" alt="Screenshot 2026-06-26 153045" src="https://github.com/user-attachments/assets/f35f7619-d412-4928-a22a-99acc7f40582" />
+) | ![Tambah Barang](<img width="281" height="622" alt="Screenshot 2026-06-26 153100" src="https://github.com/user-attachments/assets/56c50431-0c17-47dc-891c-2cfcc464d490" />
+) | ![Mutasi Stok](<img width="290" height="618" alt="Screenshot 2026-06-26 153111" src="https://github.com/user-attachments/assets/7f52a670-ed81-443e-83c7-928b9339dbde" />
+) |
 
 | Pusat Laporan | Profil & Keamanan |
 | :---: | :---: |
-| ![Reporting Center](Screenshot%202026-06-26%20153121.png) | ![Profil Admin](Screenshot%202026-06-26%20153131.png) |
+| ![Reporting Center](<img width="295" height="622" alt="Screenshot 2026-06-26 153121" src="https://github.com/user-attachments/assets/e55c3f97-49ef-4438-ba26-1cad83c06ade" />
+) | ![Profil Admin](<img width="302" height="632" alt="Screenshot 2026-06-26 153131" src="https://github.com/user-attachments/assets/e5df8ea6-5554-4531-8415-f9d6d871b9b9" />
+) |
 
 ---
 
