@@ -8,28 +8,19 @@ Aplikasi **Spin Arisan** berbasis **React Native** yang dirancang dengan antarmu
 
 Berikut adalah tampilan antarmuka dari **Aplikasi Spin Arisan**:
 
-| Halaman Utama / Input | Roda Acak (Spin Wheel) | Pemenang Arisan |
+| Halaman Utama / Input | Roda Acak (Spin Wheel) | Riwayat Pemenang |
 | :---: | :---: | :---: |
-| <<img width="298" height="630" alt="Screenshot 2026-06-26 154659" src="https://github.com/user-attachments/assets/d5c35d0b-e55d-4ff8-b1fd-14802c1dafde" />
-> | <<img width="282" height="622" alt="Screenshot 2026-06-26 154741" src="https://github.com/user-attachments/assets/16e554d7-84f7-469e-8d2d-e0f202b03cb1" />
-> |
-
-| Riwayat Pemenang | Pengaturan Arisan |
-| :---: | :---: |
-| <<img width="293" height="632" alt="Screenshot 2026-06-26 154819" src="https://github.com/user-attachments/assets/dafbff3c-d9cf-4103-9273-57bce8543656" />
-> |
-
-> *💡 **Tips:** Untuk memasukkan gambar di atas, cukup drag-and-drop tangkapan layar aplikasi arisan Anda ke kolom komentar/isu GitHub, lalu salin link-nya ke teks `GANTI_DENGAN_LINK_GAMBAR` di atas.*
+| <img src="https://github.com/user-attachments/assets/d5c35d0b-e55d-4ff8-b1fd-14802c1dafde" width="220" alt="Halaman Utama" /> | <img src="https://github.com/user-attachments/assets/16e554d7-84f7-469e-8d2d-e0f202b03cb1" width="220" alt="Roda Acak" /> | <img src="https://github.com/user-attachments/assets/dafbff3c-d9cf-4103-9273-57bce8543656" width="220" alt="Riwayat Pemenang" /> |
 
 ---
 
 ## ✨ Fitur Utama
 
-* 👥 **Manajemen Anggota:** Tambah, edit, atau hapus nama peserta arisan dengan mudah dan cepat.
-* 🎡 **Roda Keberuntungan (Lucky Spin Wheel):** Animasi roda berputar yang interaktif, seru, dan adil untuk mengocok nama pemenang.
-* 🏆 **Riwayat Pemenang (History):** Mencatat daftar peserta yang sudah menang agar tidak keluar lagi di kocokan periode berikutnya.
-* 🎵 **Efek Suara & Animasi:** Dilengkapi dengan efek visual perayaan (seperti konfeti) dan suara seru saat roda berputar dan pemenang terpilih.
-* 💾 **Simpan Grup Arisan:** Mendukung penyimpanan multi-grup arisan (misal: Arisan Keluarga, Arisan Kantor, RT).
+* **👥 Manajemen Anggota:** Tambah, edit, atau hapus nama peserta arisan dengan mudah dan cepat.
+* **🎡 Roda Keberuntungan (Lucky Spin Wheel):** Animasi roda berputar yang interaktif, seru, dan adil untuk mengocok nama pemenang.
+* **🏆 Riwayat Pemenang (History):** Mencatat daftar peserta yang sudah menang agar tidak keluar lagi di kocokan periode berikutnya.
+* **🎵 Efek Suara & Animasi:** Dilengkapi dengan efek visual perayaan (seperti konfeti) dan suara seru saat roda berputar dan pemenang terpilih.
+* **💾 Simpan Grup Arisan:** Mendukung penyimpanan multi-grup arisan (misal: Arisan Keluarga, Arisan Kantor, RT).
 
 ---
 
